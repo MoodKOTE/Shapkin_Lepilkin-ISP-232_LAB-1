@@ -20,7 +20,7 @@ namespace ISP {
             char sym = '2';
             double c = 3.4;
             decimal f = 3.4M;
-            var q = "";
+            var q = "athaeth";
 
 
 
