@@ -17,7 +17,7 @@ namespace ISP {
 
             bool a = true;
             bool b = false;
-            char sym = '2';
+            char sym = '25';
             double c = 3.4;
             decimal f = 3.4M;
             var q = "athaeth";
